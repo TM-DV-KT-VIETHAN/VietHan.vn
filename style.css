@@ -157,7 +157,7 @@ html {
 
 .owl-carousel.home-slider {
     position: relative;
-    height: 750px;
+    height: 500px;
     z-index: 0;
 }
 
@@ -165,7 +165,7 @@ html {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-    height: 750px;
+    height: 500px;
     position: relative;
     z-index: 0;
 }
@@ -182,12 +182,12 @@ html {
 
 .owl-carousel.home-slider .slider-item .slider-text {
     color: #ffffff;
-    height: 750px;
+    height: 500px;
     text-align: right;
 }
 
 .owl-carousel.home-slider .slider-item .slider-text .subheading {
-    font-size: 80px;
+    font-size: 50px;
     color: #c8a97e;
     font-weight: normal;
     margin-bottom: 0;
@@ -321,8 +321,8 @@ html {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    right: -165px;
-    width: 679px;
+    right: -5%;
+    width: 50%;
     background: #ffffff;
     border: solid 2px #b49388;
     box-shadow: 0px 45px 70px rgba(0, 0, 0, 0.24);
