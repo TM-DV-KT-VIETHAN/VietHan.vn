@@ -305,7 +305,7 @@ html {
 .intro {
     width: 100%;
     background: #ffffff;
-    padding-top: 102px;
+    padding-top: 200px;
     padding-bottom: 0px;
 }
 
@@ -318,19 +318,15 @@ html {
 }
 
 .intro_content {
-    position: absolute;
-    top: 50%;
     transform: translateY(-50%);
-    right: -15%;
-    width: 50%;
+    width: 100%;
     background: #ffffff;
     border: solid 2px #b49388;
     box-shadow: 0px 45px 70px rgba(0, 0, 0, 0.24);
-    z-index: 1;
-    padding-top: 55px;
-    padding-bottom: 59px;
-    padding-left: 70px;
-    padding-right: 50px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 6%;
+    padding-right: 4%;
     border-bottom-left-radius: 30px;
     border-bottom-right-radius: 30px;
 }
