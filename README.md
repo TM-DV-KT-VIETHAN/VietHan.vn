@@ -1,3 +1,8 @@
+
+## CÔNG TY TNHH TM - DV - KT VIỆT HÀN
+
+<a href="https://tm-dv-kt-viethan.github.io/VietHan.vn/" class="navbar-brand">CÔNG TY TNHH TM - DV - KT VIỆT HÀN</a>
+
 ## Giám Đốc
 <img src="https://github.com/TM-DV-KT-VIETHAN/VietHan.vn/assets/137274043/5fce037f-99b7-49b5-b0c5-c15ae5d1ca6e" width="300" />
 
@@ -12,4 +17,4 @@
 
 ## Vui lòng nhấn vào link để biết thêm thông tin chi tiết
 
-https://tm-dv-kt-viethan.github.io/VietHan.vn/
+<a href="https://tm-dv-kt-viethan.github.io/VietHan.vn/" class="navbar-brand">CÔNG TY TNHH TM - DV - KT VIỆT HÀN</a>
