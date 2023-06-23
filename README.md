@@ -8,6 +8,15 @@
 ## Giám Đốc
 <img src="https://github.com/TM-DV-KT-VIETHAN/VietHan.vn/assets/137274043/5fce037f-99b7-49b5-b0c5-c15ae5d1ca6e" width="300" />
 
+## Cam Kết
+Luôn đem lại lợi ích và giá trị thiết thực nhất cho đối tác
+
+## Đội ngũ kinh doanh chuyên nghiệp
+<ul>
+  <li>Đội ngũ giàu kinh nghiệm</li>
+  <li>Nhân viên tận tâm và nhiệt huyết</li>
+</ul>
+
 ## Sản phẩm
 <h3>Máy lọc nước ion kiềm GCOOP Hydrogen Plus</h3>
 <img src="https://github.com/TM-DV-KT-VIETHAN/VietHan.vn/assets/137274043/578f5360-da90-41a1-bd8b-0da0a6d01364"/>
